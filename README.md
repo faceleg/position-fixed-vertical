@@ -3,3 +3,4 @@
 
 Vertically fixed navbar (but not horizontally fixed)
 
+*In collaboration with [t (The Darkness) bredin](https://github.com/tbredin).
